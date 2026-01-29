@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Mind Map Explorer",
+  "description": "An interactive word association game where you explore the conceptual universe. Starting with any word, Gemini generates related context-aware concepts, allowing you to build an ever-expanding web of knowledge and discover strange new connections.",
+  "requestFramePermissions": []
+}
